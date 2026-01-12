@@ -111,6 +111,6 @@ If not, you're not alone. Here's a list of resources to help you plan, strategiz
 ## 5. Graduate School 
 Thinking about grad school? Want to know the difference between a masters and doctoral degree? Here's where to start. This section covers the application process, funding opportunities, and what life is really like in graduate school.
 
-- Learn more about the differences between graduate degrees [here](https://scholarshipowl.com/blog/guides/difference-between-undergraduate-graduate-and-postgraduate/). 
-- Learn more about the graduate school application process with the LS PAC Models [Guide](https://www.lspacmodels.org/s/Final-Stand-Out-to-Get-In-Graduate-School-Application-Process-LS-PAC-MODELS.pptx)
+- Learn more about the differences between graduate degrees [here](https://scholarshipowl.com/blog/guides/difference-between-undergraduate-graduate-and-postgraduate/)
+- Learn more about the graduate school application process with the LS PAC Models [Guide](/files/Final+Stand+Out+to+Get+In+Graduate+School+Application+Process+-+LS-PAC+MODELS.pptx)
 - Fellowships and Scholarships: Check out this great curated list by Dr. Chinasa T. Okolo at [https://github.com/chinasatokolo/csGraduateFellowships](https://github.com/chinasatokolo/csGraduateFellowships)
