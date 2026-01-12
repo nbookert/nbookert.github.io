@@ -40,4 +40,4 @@ In the TIPS Lab, I specialize in cyber threat analysis, improving privacy protec
 ## **Collaborative and Affiliated Projects**
 
 ### **Privacy and Safety in Smart Energy & Environmental Systems**  
-In collaboration with [Center for Energy and Environmental Solutions](https://scsu.edu/cees), I investigate the privacy and safety of smart energy and environmental technologies. My research focuses on leveraging AI and data-driven solutions to protect public infrastructure while enhancing the sustainability and safety of connected systems like electric vehicles and smart grids.
+In collaboration with the [Center for Energy and Environmental Solutions](https://scsu.edu/cees), I investigate the privacy and safety of smart energy and environmental technologies. My research focuses on leveraging AI and data-driven solutions to protect public infrastructure while enhancing the sustainability and safety of connected systems like electric vehicles and smart grids.
